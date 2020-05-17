@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fabareket%2Fcoinbase-python.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fabareket%2Fcoinbase-python?ref=badge_shield)
+
 Coinbase
 ========
 
@@ -790,3 +792,7 @@ Once you've installed the appropriate interpreters, running the tests in every e
 
     tox
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fabareket%2Fcoinbase-python.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fabareket%2Fcoinbase-python?ref=badge_large)
